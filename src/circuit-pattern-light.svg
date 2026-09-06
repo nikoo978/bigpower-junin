@@ -1,1 +1,16 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjAiIGhlaWdodD0iMjYwIiB2aWV3Qm94PSIwIDAgNDIwIDI2MCI+CiAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjg2NDVjIiBzdHJva2Utd2lkdGg9IjEuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBvcGFjaXR5PSIuMTMiPgogICAgPHBhdGggZD0iTTAgNTJoNDIwTTAgMTc2aDQyME05MiAwdjI2ME0zMTggMHYyNjAiLz4KICAgIDxwYXRoIGQ9Ik00MiA1MnYzNWwyMyAyM2g3M2wyMiAyMmg3NGwyNS0yNWg1OU05MiAyOGg1OGwyMiAyMnY0NmwyMCAyMGg3Nk0zMTggNzZoLTUybC0yNCAyNHY0NWwtMzEgMzFoLTYzTTQ0IDE3NmwyOC0yOGg2NGwyMC0yME0zMTggMjA1aC03NGwtMjMtMjNoLTU3Ii8+CiAgPC9nPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2E4NmYwZCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIG9wYWNpdHk9Ii4xMiI+CiAgICA8cGF0aCBkPSJNMCAxMTRoNTJsMTgtMThoNDZNNDIwIDExNmgtNThsLTE4IDE4aC00OE0xNDggMHYzMWwxOCAxOE0yNDggMjYwdi0zOGwtMTgtMTgiLz4KICA8L2c+CiAgPGcgZmlsbD0iIzY4NjQ1YyIgb3BhY2l0eT0iLjIiPgogICAgPGNpcmNsZSBjeD0iOTIiIGN5PSI1MiIgcj0iMyIvPjxjaXJjbGUgY3g9IjE2MCIgY3k9IjEzMiIgcj0iMyIvPjxjaXJjbGUgY3g9IjI0MiIgY3k9IjEwMCIgcj0iMyIvPjxjaXJjbGUgY3g9IjMxOCIgY3k9IjE3NiIgcj0iMyIvPjxjaXJjbGUgY3g9IjcyIiBjeT0iMTQ4IiByPSIzIi8+PGNpcmNsZSBjeD0iMjIxIiBjeT0iMTgyIiByPSIzIi8+CiAgPC9nPgogIDxnIGZpbGw9IiNhODZmMGQiIG9wYWNpdHk9Ii4yIj4KICAgIDxjaXJjbGUgY3g9IjUyIiBjeT0iMTE0IiByPSIyLjYiLz48Y2lyY2xlIGN4PSIzNDQiIGN5PSIxMzQiIHI9IjIuNiIvPjxjaXJjbGUgY3g9IjE2NiIgY3k9IjQ5IiByPSIyLjYiLz48Y2lyY2xlIGN4PSIyMzAiIGN5PSIyMDQiIHI9IjIuNiIvPgogIDwvZz4KPC9zdmc+Cgo="}
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260">
+  <g fill="none" stroke="#68645c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".13">
+    <path d="M0 52h420M0 176h420M92 0v260M318 0v260"/>
+    <path d="M42 52v35l23 23h73l22 22h74l25-25h59M92 28h58l22 22v46l20 20h76M318 76h-52l-24 24v45l-31 31h-63M44 176l28-28h64l20-20M318 205h-74l-23-23h-57"/>
+  </g>
+  <g fill="none" stroke="#a86f0d" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".12">
+    <path d="M0 114h52l18-18h46M420 116h-58l-18 18h-48M148 0v31l18 18M248 260v-38l-18-18"/>
+  </g>
+  <g fill="#68645c" opacity=".2">
+    <circle cx="92" cy="52" r="3"/><circle cx="160" cy="132" r="3"/><circle cx="242" cy="100" r="3"/><circle cx="318" cy="176" r="3"/><circle cx="72" cy="148" r="3"/><circle cx="221" cy="182" r="3"/>
+  </g>
+  <g fill="#a86f0d" opacity=".2">
+    <circle cx="52" cy="114" r="2.6"/><circle cx="344" cy="134" r="2.6"/><circle cx="166" cy="49" r="2.6"/><circle cx="230" cy="204" r="2.6"/>
+  </g>
+</svg>
+

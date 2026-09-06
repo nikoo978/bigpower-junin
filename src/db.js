@@ -1,1 +1,281 @@
-{"data":"Y29uc3QgREJfTkFNRSA9ICdwcmVzdXB1ZXN0b3MtdGVjbmljb3MnOwpjb25zdCBEQl9WRVJTSU9OID0gMzsKCmNvbnN0IFNFVFRJTkdTX1NUT1JFID0gJ3NldHRpbmdzJzsKY29uc3QgQlVER0VUU19TVE9SRSA9ICdidWRnZXRzJzsKY29uc3QgUVVJQ0tfVEVNUExBVEVTX1NUT1JFID0gJ3F1aWNrVGVtcGxhdGVzJzsKY29uc3QgQ0xPVURfU0VUVElOR1NfU1RPUkUgPSAnY2xvdWRTZXR0aW5ncyc7CmNvbnN0IENMT1VEX0JVREdFVFNfU1RPUkUgPSAnY2xvdWRCdWRnZXRzJzsKY29uc3QgQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFID0gJ2Nsb3VkUXVpY2tUZW1wbGF0ZXMnOwoKZnVuY3Rpb24gb3BlbkRCKCkgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCByZXF1ZXN0ID0gaW5kZXhlZERCLm9wZW4oREJfTkFNRSwgREJfVkVSU0lPTik7CiAgICByZXF1ZXN0Lm9udXBncmFkZW5lZWRlZCA9ICgpID0+IHsKICAgICAgY29uc3QgZGIgPSByZXF1ZXN0LnJlc3VsdDsKICAgICAgaWYgKCFkYi5vYmplY3RTdG9yZU5hbWVzLmNvbnRhaW5zKFNFVFRJTkdTX1NUT1JFKSkgZGIuY3JlYXRlT2JqZWN0U3RvcmUoU0VUVElOR1NfU1RPUkUsIHsga2V5UGF0aDogJ2lkJyB9KTsKICAgICAgaWYgKCFkYi5vYmplY3RTdG9yZU5hbWVzLmNvbnRhaW5zKEJVREdFVFNfU1RPUkUpKSB7CiAgICAgICAgY29uc3Qgc3RvcmUgPSBkYi5jcmVhdGVPYmplY3RTdG9yZShCVURHRVRTX1NUT1JFLCB7IGtleVBhdGg6ICdpZCcgfSk7CiAgICAgICAgc3RvcmUuY3JlYXRlSW5kZXgoJ2J1ZGdldE51bWJlcicsICdidWRnZXROdW1iZXInLCB7IHVuaXF1ZTogdHJ1ZSB9KTsKICAgICAgICBzdG9yZS5jcmVhdGVJbmRleCgnY3JlYXRlZEF0JywgJ2NyZWF0ZWRBdCcsIHsgdW5pcXVlOiBmYWxzZSB9KTsKICAgICAgfQogICAgICBpZiAoIWRiLm9iamVjdFN0b3JlTmFtZXMuY29udGFpbnMoUVVJQ0tfVEVNUExBVEVTX1NUT1JFKSkgewogICAgICAgIGNvbnN0IHN0b3JlID0gZGIuY3JlYXRlT2JqZWN0U3RvcmUoUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCB7IGtleVBhdGg6ICdpZCcgfSk7CiAgICAgICAgc3RvcmUuY3JlYXRlSW5kZXgoJ2xhYmVsJywgJ2xhYmVsJywgeyB1bmlxdWU6IGZhbHNlIH0pOwogICAgICAgIHN0b3JlLmNyZWF0ZUluZGV4KCd1cGRhdGVkQXQnLCAndXBkYXRlZEF0JywgeyB1bmlxdWU6IGZhbHNlIH0pOwogICAgICB9CiAgICAgIGlmICghZGIub2JqZWN0U3RvcmVOYW1lcy5jb250YWlucyhDTE9VRF9TRVRUSU5HU19TVE9SRSkpIGRiLmNyZWF0ZU9iamVjdFN0b3JlKENMT1VEX1NFVFRJTkdTX1NUT1JFLCB7IGtleVBhdGg6ICdvd25lcklkJyB9KTsKICAgICAgaWYgKCFkYi5vYmplY3RTdG9yZU5hbWVzLmNvbnRhaW5zKENMT1VEX0JVREdFVFNfU1RPUkUpKSB7CiAgICAgICAgY29uc3Qgc3RvcmUgPSBkYi5jcmVhdGVPYmplY3RTdG9yZShDTE9VRF9CVURHRVRTX1NUT1JFLCB7IGtleVBhdGg6IFsnb3duZXJJZCcsICdpZCddIH0pOwogICAgICAgIHN0b3JlLmNyZWF0ZUluZGV4KCdvd25lcklkJywgJ293bmVySWQnLCB7IHVuaXF1ZTogZmFsc2UgfSk7CiAgICAgICAgc3RvcmUuY3JlYXRlSW5kZXgoJ293bmVyTnVtYmVyJywgWydvd25lcklkJywgJ2J1ZGdldE51bWJlciddLCB7IHVuaXF1ZTogdHJ1ZSB9KTsKICAgICAgICBzdG9yZS5jcmVhdGVJbmRleCgndXBkYXRlZEF0JywgJ3VwZGF0ZWRBdCcsIHsgdW5pcXVlOiBmYWxzZSB9KTsKICAgICAgfQogICAgICBpZiAoIWRiLm9iamVjdFN0b3JlTmFtZXMuY29udGFpbnMoQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFKSkgewogICAgICAgIGNvbnN0IHN0b3JlID0gZGIuY3JlYXRlT2JqZWN0U3RvcmUoQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCB7IGtleVBhdGg6IFsnb3duZXJJZCcsICdpZCddIH0pOwogICAgICAgIHN0b3JlLmNyZWF0ZUluZGV4KCdvd25lcklkJywgJ293bmVySWQnLCB7IHVuaXF1ZTogZmFsc2UgfSk7CiAgICAgICAgc3RvcmUuY3JlYXRlSW5kZXgoJ3VwZGF0ZWRBdCcsICd1cGRhdGVkQXQnLCB7IHVuaXF1ZTogZmFsc2UgfSk7CiAgICAgIH0KICAgIH07CiAgICByZXF1ZXN0Lm9uc3VjY2VzcyA9ICgpID0+IHJlc29sdmUocmVxdWVzdC5yZXN1bHQpOwogICAgcmVxdWVzdC5vbmVycm9yID0gKCkgPT4gcmVqZWN0KHJlcXVlc3QuZXJyb3IpOwogIH0pOwp9CgpmdW5jdGlvbiByZXF1ZXN0UmVzdWx0KHJlcXVlc3QpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgcmVxdWVzdC5vbnN1Y2Nlc3MgPSAoKSA9PiByZXNvbHZlKHJlcXVlc3QucmVzdWx0KTsKICAgIHJlcXVlc3Qub25lcnJvciA9ICgpID0+IHJlamVjdChyZXF1ZXN0LmVycm9yKTsKICB9KTsKfQoKYXN5bmMgZnVuY3Rpb24gd2l0aFN0b3JlKHN0b3JlTmFtZSwgbW9kZSwgY2FsbGJhY2spIHsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCB0eCA9IGRiLnRyYW5zYWN0aW9uKHN0b3JlTmFtZSwgbW9kZSk7CiAgICBjb25zdCBzdG9yZSA9IHR4Lm9iamVjdFN0b3JlKHN0b3JlTmFtZSk7CiAgICBsZXQgcmVzdWx0OwogICAgdHJ5IHsgcmVzdWx0ID0gY2FsbGJhY2soc3RvcmUpOyB9IGNhdGNoIChlcnJvcikgeyByZWplY3QoZXJyb3IpOyByZXR1cm47IH0KICAgIHR4Lm9uY29tcGxldGUgPSAoKSA9PiByZXNvbHZlKHJlc3VsdCk7CiAgICB0eC5vbmVycm9yID0gKCkgPT4gcmVqZWN0KHR4LmVycm9yKTsKICAgIHR4Lm9uYWJvcnQgPSAoKSA9PiByZWplY3QodHguZXJyb3IpOwogIH0pOwp9CgpmdW5jdGlvbiBzb3J0QnVkZ2V0cyhyb3dzID0gW10pIHsKICByZXR1cm4gWy4uLnJvd3NdLnNvcnQoKGEsIGIpID0+IFN0cmluZyhiLnVwZGF0ZWRBdCB8fCBiLmNyZWF0ZWRBdCB8fCAnJykubG9jYWxlQ29tcGFyZShTdHJpbmcoYS51cGRhdGVkQXQgfHwgYS5jcmVhdGVkQXQgfHwgJycpKSk7Cn0KCmZ1bmN0aW9uIHNvcnRUZW1wbGF0ZXMocm93cyA9IFtdKSB7CiAgcmV0dXJuIFsuLi5yb3dzXS5zb3J0KChhLCBiKSA9PiBTdHJpbmcoYS5sYWJlbCB8fCAnJykubG9jYWxlQ29tcGFyZShTdHJpbmcoYi5sYWJlbCB8fCAnJyksICdlcycpKTsKfQoKZnVuY3Rpb24gd2l0aG91dE93bmVyKHJlY29yZCkgewogIGlmICghcmVjb3JkKSByZXR1cm4gbnVsbDsKICBjb25zdCB7IG93bmVySWQsIC4uLmNsZWFuIH0gPSByZWNvcmQ7CiAgcmV0dXJuIGNsZWFuOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0U2V0dGluZ3MoKSB7CiAgY29uc3QgZGIgPSBhd2FpdCBvcGVuREIoKTsKICByZXR1cm4gcmVxdWVzdFJlc3VsdChkYi50cmFuc2FjdGlvbihTRVRUSU5HU19TVE9SRSwgJ3JlYWRvbmx5Jykub2JqZWN0U3RvcmUoU0VUVElOR1NfU1RPUkUpLmdldCgnbWFpbicpKS50aGVuKCh2YWx1ZSkgPT4gdmFsdWUgfHwgbnVsbCk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBzYXZlU2V0dGluZ3Moc2V0dGluZ3MpIHsKICByZXR1cm4gd2l0aFN0b3JlKFNFVFRJTkdTX1NUT1JFLCAncmVhZHdyaXRlJywgKHN0b3JlKSA9PiBzdG9yZS5wdXQoeyAuLi5zZXR0aW5ncywgaWQ6ICdtYWluJyB9KSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRCdWRnZXRzKCkgewogIGNvbnN0IGRiID0gYXdhaXQgb3BlbkRCKCk7CiAgcmV0dXJuIHJlcXVlc3RSZXN1bHQoZGIudHJhbnNhY3Rpb24oQlVER0VUU19TVE9SRSwgJ3JlYWRvbmx5Jykub2JqZWN0U3RvcmUoQlVER0VUU19TVE9SRSkuZ2V0QWxsKCkpLnRoZW4oc29ydEJ1ZGdldHMpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0QnVkZ2V0KGlkKSB7CiAgY29uc3QgZGIgPSBhd2FpdCBvcGVuREIoKTsKICByZXR1cm4gcmVxdWVzdFJlc3VsdChkYi50cmFuc2FjdGlvbihCVURHRVRTX1NUT1JFLCAncmVhZG9ubHknKS5vYmplY3RTdG9yZShCVURHRVRTX1NUT1JFKS5nZXQoaWQpKS50aGVuKCh2YWx1ZSkgPT4gdmFsdWUgfHwgbnVsbCk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBzYXZlQnVkZ2V0KGJ1ZGdldCkgewogIHJldHVybiB3aXRoU3RvcmUoQlVER0VUU19TVE9SRSwgJ3JlYWR3cml0ZScsIChzdG9yZSkgPT4gc3RvcmUucHV0KGJ1ZGdldCkpOwp9CgpleHBvcnQgZnVuY3Rpb24gZGVsZXRlQnVkZ2V0KGlkKSB7CiAgcmV0dXJuIHdpdGhTdG9yZShCVURHRVRTX1NUT1JFLCAncmVhZHdyaXRlJywgKHN0b3JlKSA9PiBzdG9yZS5kZWxldGUoaWQpKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFF1aWNrVGVtcGxhdGVzKCkgewogIGNvbnN0IGRiID0gYXdhaXQgb3BlbkRCKCk7CiAgcmV0dXJuIHJlcXVlc3RSZXN1bHQoZGIudHJhbnNhY3Rpb24oUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCAncmVhZG9ubHknKS5vYmplY3RTdG9yZShRVUlDS19URU1QTEFURVNfU1RPUkUpLmdldEFsbCgpKS50aGVuKHNvcnRUZW1wbGF0ZXMpOwp9CgpleHBvcnQgZnVuY3Rpb24gc2F2ZVF1aWNrVGVtcGxhdGUodGVtcGxhdGUpIHsKICByZXR1cm4gd2l0aFN0b3JlKFFVSUNLX1RFTVBMQVRFU19TVE9SRSwgJ3JlYWR3cml0ZScsIChzdG9yZSkgPT4gc3RvcmUucHV0KHRlbXBsYXRlKSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBkZWxldGVRdWlja1RlbXBsYXRlKGlkKSB7CiAgcmV0dXJuIHdpdGhTdG9yZShRVUlDS19URU1QTEFURVNfU1RPUkUsICdyZWFkd3JpdGUnLCAoc3RvcmUpID0+IHN0b3JlLmRlbGV0ZShpZCkpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0Q2xvdWRTZXR0aW5ncyhvd25lcklkKSB7CiAgaWYgKCFvd25lcklkKSByZXR1cm4gbnVsbDsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIGNvbnN0IHZhbHVlID0gYXdhaXQgcmVxdWVzdFJlc3VsdChkYi50cmFuc2FjdGlvbihDTE9VRF9TRVRUSU5HU19TVE9SRSwgJ3JlYWRvbmx5Jykub2JqZWN0U3RvcmUoQ0xPVURfU0VUVElOR1NfU1RPUkUpLmdldChvd25lcklkKSk7CiAgcmV0dXJuIHdpdGhvdXRPd25lcih2YWx1ZSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBzYXZlQ2xvdWRTZXR0aW5ncyhvd25lcklkLCBzZXR0aW5ncykgewogIGlmICghb3duZXJJZCkgdGhyb3cgbmV3IEVycm9yKCdGYWx0YSBlbCB1c3VhcmlvIGRlIGxhIG51YmUuJyk7CiAgcmV0dXJuIHdpdGhTdG9yZShDTE9VRF9TRVRUSU5HU19TVE9SRSwgJ3JlYWR3cml0ZScsIChzdG9yZSkgPT4gc3RvcmUucHV0KHsgLi4uc2V0dGluZ3MsIGlkOiAnbWFpbicsIG93bmVySWQgfSkpOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0Q2xvdWRCdWRnZXRzKG93bmVySWQpIHsKICBpZiAoIW93bmVySWQpIHJldHVybiBbXTsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIGNvbnN0IHN0b3JlID0gZGIudHJhbnNhY3Rpb24oQ0xPVURfQlVER0VUU19TVE9SRSwgJ3JlYWRvbmx5Jykub2JqZWN0U3RvcmUoQ0xPVURfQlVER0VUU19TVE9SRSk7CiAgY29uc3Qgcm93cyA9IGF3YWl0IHJlcXVlc3RSZXN1bHQoc3RvcmUuaW5kZXgoJ293bmVySWQnKS5nZXRBbGwoSURCS2V5UmFuZ2Uub25seShvd25lcklkKSkpOwogIHJldHVybiBzb3J0QnVkZ2V0cyhyb3dzLm1hcCh3aXRob3V0T3duZXIpKTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldENsb3VkQnVkZ2V0KG93bmVySWQsIGlkKSB7CiAgaWYgKCFvd25lcklkIHx8ICFpZCkgcmV0dXJuIG51bGw7CiAgY29uc3QgZGIgPSBhd2FpdCBvcGVuREIoKTsKICBjb25zdCB2YWx1ZSA9IGF3YWl0IHJlcXVlc3RSZXN1bHQoZGIudHJhbnNhY3Rpb24oQ0xPVURfQlVER0VUU19TVE9SRSwgJ3JlYWRvbmx5Jykub2JqZWN0U3RvcmUoQ0xPVURfQlVER0VUU19TVE9SRSkuZ2V0KFtvd25lcklkLCBpZF0pKTsKICByZXR1cm4gd2l0aG91dE93bmVyKHZhbHVlKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIHNhdmVDbG91ZEJ1ZGdldChvd25lcklkLCBidWRnZXQpIHsKICBpZiAoIW93bmVySWQpIHRocm93IG5ldyBFcnJvcignRmFsdGEgZWwgdXN1YXJpbyBkZSBsYSBudWJlLicpOwogIHJldHVybiB3aXRoU3RvcmUoQ0xPVURfQlVER0VUU19TVE9SRSwgJ3JlYWR3cml0ZScsIChzdG9yZSkgPT4gc3RvcmUucHV0KHsgLi4uYnVkZ2V0LCBvd25lcklkIH0pKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGRlbGV0ZUNsb3VkQnVkZ2V0Q2FjaGUob3duZXJJZCwgaWQpIHsKICByZXR1cm4gd2l0aFN0b3JlKENMT1VEX0JVREdFVFNfU1RPUkUsICdyZWFkd3JpdGUnLCAoc3RvcmUpID0+IHN0b3JlLmRlbGV0ZShbb3duZXJJZCwgaWRdKSk7Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBnZXRDbG91ZFF1aWNrVGVtcGxhdGVzKG93bmVySWQpIHsKICBpZiAoIW93bmVySWQpIHJldHVybiBbXTsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIGNvbnN0IHN0b3JlID0gZGIudHJhbnNhY3Rpb24oQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCAncmVhZG9ubHknKS5vYmplY3RTdG9yZShDTE9VRF9RVUlDS19URU1QTEFURVNfU1RPUkUpOwogIGNvbnN0IHJvd3MgPSBhd2FpdCByZXF1ZXN0UmVzdWx0KHN0b3JlLmluZGV4KCdvd25lcklkJykuZ2V0QWxsKElEQktleVJhbmdlLm9ubHkob3duZXJJZCkpKTsKICByZXR1cm4gc29ydFRlbXBsYXRlcyhyb3dzLm1hcCh3aXRob3V0T3duZXIpKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIHNhdmVDbG91ZFF1aWNrVGVtcGxhdGUob3duZXJJZCwgdGVtcGxhdGUpIHsKICBpZiAoIW93bmVySWQpIHRocm93IG5ldyBFcnJvcignRmFsdGEgZWwgdXN1YXJpbyBkZSBsYSBudWJlLicpOwogIHJldHVybiB3aXRoU3RvcmUoQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCAncmVhZHdyaXRlJywgKHN0b3JlKSA9PiBzdG9yZS5wdXQoeyAuLi50ZW1wbGF0ZSwgb3duZXJJZCB9KSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBkZWxldGVDbG91ZFF1aWNrVGVtcGxhdGVDYWNoZShvd25lcklkLCBpZCkgewogIHJldHVybiB3aXRoU3RvcmUoQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCAncmVhZHdyaXRlJywgKHN0b3JlKSA9PiBzdG9yZS5kZWxldGUoW293bmVySWQsIGlkXSkpOwp9CgpmdW5jdGlvbiBjbGVhck93bmVkU3RvcmUoc3RvcmUsIG93bmVySWQpIHsKICBjb25zdCByZXF1ZXN0ID0gc3RvcmUuaW5kZXgoJ293bmVySWQnKS5vcGVuS2V5Q3Vyc29yKElEQktleVJhbmdlLm9ubHkob3duZXJJZCkpOwogIHJlcXVlc3Qub25zdWNjZXNzID0gKCkgPT4gewogICAgY29uc3QgY3Vyc29yID0gcmVxdWVzdC5yZXN1bHQ7CiAgICBpZiAoIWN1cnNvcikgcmV0dXJuOwogICAgc3RvcmUuZGVsZXRlKGN1cnNvci5wcmltYXJ5S2V5KTsKICAgIGN1cnNvci5jb250aW51ZSgpOwogIH07Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZXBsYWNlQ2xvdWRTbmFwc2hvdChvd25lcklkLCBzZXR0aW5ncywgYnVkZ2V0cyA9IFtdLCBxdWlja1RlbXBsYXRlcyA9IFtdKSB7CiAgaWYgKCFvd25lcklkKSByZXR1cm47CiAgY29uc3QgZGIgPSBhd2FpdCBvcGVuREIoKTsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgY29uc3QgdHggPSBkYi50cmFuc2FjdGlvbihbQ0xPVURfU0VUVElOR1NfU1RPUkUsIENMT1VEX0JVREdFVFNfU1RPUkUsIENMT1VEX1FVSUNLX1RFTVBMQVRFU19TVE9SRV0sICdyZWFkd3JpdGUnKTsKICAgIGNvbnN0IHNldHRpbmdzU3RvcmUgPSB0eC5vYmplY3RTdG9yZShDTE9VRF9TRVRUSU5HU19TVE9SRSk7CiAgICBjb25zdCBidWRnZXRzU3RvcmUgPSB0eC5vYmplY3RTdG9yZShDTE9VRF9CVURHRVRTX1NUT1JFKTsKICAgIGNvbnN0IHRlbXBsYXRlc1N0b3JlID0gdHgub2JqZWN0U3RvcmUoQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFKTsKICAgIHNldHRpbmdzU3RvcmUuZGVsZXRlKG93bmVySWQpOwogICAgY2xlYXJPd25lZFN0b3JlKGJ1ZGdldHNTdG9yZSwgb3duZXJJZCk7CiAgICBjbGVhck93bmVkU3RvcmUodGVtcGxhdGVzU3RvcmUsIG93bmVySWQpOwogICAgaWYgKHNldHRpbmdzKSBzZXR0aW5nc1N0b3JlLnB1dCh7IC4uLnNldHRpbmdzLCBpZDogJ21haW4nLCBvd25lcklkIH0pOwogICAgYnVkZ2V0cy5mb3JFYWNoKChidWRnZXQpID0+IGJ1ZGdldHNTdG9yZS5wdXQoeyAuLi5idWRnZXQsIG93bmVySWQgfSkpOwogICAgcXVpY2tUZW1wbGF0ZXMuZm9yRWFjaCgodGVtcGxhdGUpID0+IHRlbXBsYXRlc1N0b3JlLnB1dCh7IC4uLnRlbXBsYXRlLCBvd25lcklkIH0pKTsKICAgIHR4Lm9uY29tcGxldGUgPSAoKSA9PiByZXNvbHZlKCk7CiAgICB0eC5vbmVycm9yID0gKCkgPT4gcmVqZWN0KHR4LmVycm9yKTsKICAgIHR4Lm9uYWJvcnQgPSAoKSA9PiByZWplY3QodHguZXJyb3IpOwogIH0pOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gY2xlYXJDbG91ZERhdGEob3duZXJJZCA9IG51bGwpIHsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCB0eCA9IGRiLnRyYW5zYWN0aW9uKFtDTE9VRF9TRVRUSU5HU19TVE9SRSwgQ0xPVURfQlVER0VUU19TVE9SRSwgQ0xPVURfUVVJQ0tfVEVNUExBVEVTX1NUT1JFXSwgJ3JlYWR3cml0ZScpOwogICAgY29uc3Qgc2V0dGluZ3NTdG9yZSA9IHR4Lm9iamVjdFN0b3JlKENMT1VEX1NFVFRJTkdTX1NUT1JFKTsKICAgIGNvbnN0IGJ1ZGdldHNTdG9yZSA9IHR4Lm9iamVjdFN0b3JlKENMT1VEX0JVREdFVFNfU1RPUkUpOwogICAgY29uc3QgdGVtcGxhdGVzU3RvcmUgPSB0eC5vYmplY3RTdG9yZShDTE9VRF9RVUlDS19URU1QTEFURVNfU1RPUkUpOwogICAgaWYgKCFvd25lcklkKSB7CiAgICAgIHNldHRpbmdzU3RvcmUuY2xlYXIoKTsKICAgICAgYnVkZ2V0c1N0b3JlLmNsZWFyKCk7CiAgICAgIHRlbXBsYXRlc1N0b3JlLmNsZWFyKCk7CiAgICB9IGVsc2UgewogICAgICBzZXR0aW5nc1N0b3JlLmRlbGV0ZShvd25lcklkKTsKICAgICAgY2xlYXJPd25lZFN0b3JlKGJ1ZGdldHNTdG9yZSwgb3duZXJJZCk7CiAgICAgIGNsZWFyT3duZWRTdG9yZSh0ZW1wbGF0ZXNTdG9yZSwgb3duZXJJZCk7CiAgICB9CiAgICB0eC5vbmNvbXBsZXRlID0gKCkgPT4gcmVzb2x2ZSgpOwogICAgdHgub25lcnJvciA9ICgpID0+IHJlamVjdCh0eC5lcnJvcik7CiAgICB0eC5vbmFib3J0ID0gKCkgPT4gcmVqZWN0KHR4LmVycm9yKTsKICB9KTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIG1pZ3JhdGVMZWdhY3lDbG91ZE1hdGNoZXMob3duZXJJZCwgcmVtb3RlQnVkZ2V0cyA9IFtdLCByZW1vdGVUZW1wbGF0ZXMgPSBbXSkgewogIGlmICghb3duZXJJZCkgcmV0dXJuIHsgYnVkZ2V0czogW10sIHF1aWNrVGVtcGxhdGVzOiBbXSB9OwogIGNvbnN0IHJlbW90ZUJ1ZGdldE1hcCA9IG5ldyBNYXAocmVtb3RlQnVkZ2V0cy5tYXAoKHJlY29yZCkgPT4gW3JlY29yZC5pZCwgcmVjb3JkXSkpOwogIGNvbnN0IHJlbW90ZVRlbXBsYXRlTWFwID0gbmV3IE1hcChyZW1vdGVUZW1wbGF0ZXMubWFwKChyZWNvcmQpID0+IFtyZWNvcmQuaWQsIHJlY29yZF0pKTsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCBwcm9tb3RlZCA9IHsgYnVkZ2V0czogW10sIHF1aWNrVGVtcGxhdGVzOiBbXSB9OwogICAgY29uc3QgdHggPSBkYi50cmFuc2FjdGlvbihbQlVER0VUU19TVE9SRSwgUVVJQ0tfVEVNUExBVEVTX1NUT1JFLCBDTE9VRF9CVURHRVRTX1NUT1JFLCBDTE9VRF9RVUlDS19URU1QTEFURVNfU1RPUkVdLCAncmVhZHdyaXRlJyk7CiAgICBjb25zdCBsb2NhbEJ1ZGdldHMgPSB0eC5vYmplY3RTdG9yZShCVURHRVRTX1NUT1JFKTsKICAgIGNvbnN0IGxvY2FsVGVtcGxhdGVzID0gdHgub2JqZWN0U3RvcmUoUVVJQ0tfVEVNUExBVEVTX1NUT1JFKTsKICAgIGNvbnN0IGNsb3VkQnVkZ2V0cyA9IHR4Lm9iamVjdFN0b3JlKENMT1VEX0JVREdFVFNfU1RPUkUpOwogICAgY29uc3QgY2xvdWRUZW1wbGF0ZXMgPSB0eC5vYmplY3RTdG9yZShDTE9VRF9RVUlDS19URU1QTEFURVNfU1RPUkUpOwogICAgY29uc3QgYnVkZ2V0UmVxdWVzdCA9IGxvY2FsQnVkZ2V0cy5nZXRBbGwoKTsKICAgIGJ1ZGdldFJlcXVlc3Qub25zdWNjZXNzID0gKCkgPT4gewogICAgICAoYnVkZ2V0UmVxdWVzdC5yZXN1bHQgfHwgW10pLmZvckVhY2goKGxvY2FsKSA9PiB7CiAgICAgICAgY29uc3QgcmVtb3RlID0gcmVtb3RlQnVkZ2V0TWFwLmdldChsb2NhbC5pZCk7CiAgICAgICAgaWYgKCFyZW1vdGUpIHJldHVybjsKICAgICAgICBjb25zdCBjaG9zZW4gPSBTdHJpbmcobG9jYWwudXBkYXRlZEF0IHx8IGxvY2FsLmNyZWF0ZWRBdCB8fCAnJykgPiBTdHJpbmcocmVtb3RlLnVwZGF0ZWRBdCB8fCByZW1vdGUuY3JlYXRlZEF0IHx8ICcnKSA/IGxvY2FsIDogcmVtb3RlOwogICAgICAgIGNsb3VkQnVkZ2V0cy5wdXQoeyAuLi5jaG9zZW4sIG93bmVySWQgfSk7CiAgICAgICAgbG9jYWxCdWRnZXRzLmRlbGV0ZShsb2NhbC5pZCk7CiAgICAgICAgcHJvbW90ZWQuYnVkZ2V0cy5wdXNoKGNob3Nlbik7CiAgICAgIH0pOwogICAgfTsKICAgIGNvbnN0IHRlbXBsYXRlUmVxdWVzdCA9IGxvY2FsVGVtcGxhdGVzLmdldEFsbCgpOwogICAgdGVtcGxhdGVSZXF1ZXN0Lm9uc3VjY2VzcyA9ICgpID0+IHsKICAgICAgKHRlbXBsYXRlUmVxdWVzdC5yZXN1bHQgfHwgW10pLmZvckVhY2goKGxvY2FsKSA9PiB7CiAgICAgICAgY29uc3QgcmVtb3RlID0gcmVtb3RlVGVtcGxhdGVNYXAuZ2V0KGxvY2FsLmlkKTsKICAgICAgICBpZiAoIXJlbW90ZSkgcmV0dXJuOwogICAgICAgIGNvbnN0IGNob3NlbiA9IFN0cmluZyhsb2NhbC51cGRhdGVkQXQgfHwgbG9jYWwuY3JlYXRlZEF0IHx8ICcnKSA+IFN0cmluZyhyZW1vdGUudXBkYXRlZEF0IHx8IHJlbW90ZS5jcmVhdGVkQXQgfHwgJycpID8gbG9jYWwgOiByZW1vdGU7CiAgICAgICAgY2xvdWRUZW1wbGF0ZXMucHV0KHsgLi4uY2hvc2VuLCBvd25lcklkIH0pOwogICAgICAgIGxvY2FsVGVtcGxhdGVzLmRlbGV0ZShsb2NhbC5pZCk7CiAgICAgICAgcHJvbW90ZWQucXVpY2tUZW1wbGF0ZXMucHVzaChjaG9zZW4pOwogICAgICB9KTsKICAgIH07CiAgICB0eC5vbmNvbXBsZXRlID0gKCkgPT4gcmVzb2x2ZShwcm9tb3RlZCk7CiAgICB0eC5vbmVycm9yID0gKCkgPT4gcmVqZWN0KHR4LmVycm9yKTsKICAgIHR4Lm9uYWJvcnQgPSAoKSA9PiByZWplY3QodHguZXJyb3IpOwogIH0pOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcmVwbGFjZUFsbERhdGEoc2V0dGluZ3MsIGJ1ZGdldHMsIHF1aWNrVGVtcGxhdGVzID0gW10pIHsKICBjb25zdCBkYiA9IGF3YWl0IG9wZW5EQigpOwogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCB0eCA9IGRiLnRyYW5zYWN0aW9uKFtTRVRUSU5HU19TVE9SRSwgQlVER0VUU19TVE9SRSwgUVVJQ0tfVEVNUExBVEVTX1NUT1JFXSwgJ3JlYWR3cml0ZScpOwogICAgY29uc3Qgc2V0dGluZ3NTdG9yZSA9IHR4Lm9iamVjdFN0b3JlKFNFVFRJTkdTX1NUT1JFKTsKICAgIGNvbnN0IGJ1ZGdldHNTdG9yZSA9IHR4Lm9iamVjdFN0b3JlKEJVREdFVFNfU1RPUkUpOwogICAgY29uc3QgcXVpY2tUZW1wbGF0ZXNTdG9yZSA9IHR4Lm9iamVjdFN0b3JlKFFVSUNLX1RFTVBMQVRFU19TVE9SRSk7CiAgICBzZXR0aW5nc1N0b3JlLmNsZWFyKCk7CiAgICBidWRnZXRzU3RvcmUuY2xlYXIoKTsKICAgIHF1aWNrVGVtcGxhdGVzU3RvcmUuY2xlYXIoKTsKICAgIHNldHRpbmdzU3RvcmUucHV0KHsgLi4uc2V0dGluZ3MsIGlkOiAnbWFpbicgfSk7CiAgICAoYnVkZ2V0cyB8fCBbXSkuZm9yRWFjaCgoYnVkZ2V0KSA9PiBidWRnZXRzU3RvcmUucHV0KGJ1ZGdldCkpOwogICAgKHF1aWNrVGVtcGxhdGVzIHx8IFtdKS5mb3JFYWNoKCh0ZW1wbGF0ZSkgPT4gcXVpY2tUZW1wbGF0ZXNTdG9yZS5wdXQodGVtcGxhdGUpKTsKICAgIHR4Lm9uY29tcGxldGUgPSAoKSA9PiByZXNvbHZlKCk7CiAgICB0eC5vbmVycm9yID0gKCkgPT4gcmVqZWN0KHR4LmVycm9yKTsKICAgIHR4Lm9uYWJvcnQgPSAoKSA9PiByZWplY3QodHguZXJyb3IpOwogIH0pOwp9Cg=="}
+const DB_NAME = 'presupuestos-tecnicos';
+const DB_VERSION = 3;
+
+const SETTINGS_STORE = 'settings';
+const BUDGETS_STORE = 'budgets';
+const QUICK_TEMPLATES_STORE = 'quickTemplates';
+const CLOUD_SETTINGS_STORE = 'cloudSettings';
+const CLOUD_BUDGETS_STORE = 'cloudBudgets';
+const CLOUD_QUICK_TEMPLATES_STORE = 'cloudQuickTemplates';
+
+function openDB() {
+  return new Promise((resolve, reject) => {
+    const request = indexedDB.open(DB_NAME, DB_VERSION);
+    request.onupgradeneeded = () => {
+      const db = request.result;
+      if (!db.objectStoreNames.contains(SETTINGS_STORE)) db.createObjectStore(SETTINGS_STORE, { keyPath: 'id' });
+      if (!db.objectStoreNames.contains(BUDGETS_STORE)) {
+        const store = db.createObjectStore(BUDGETS_STORE, { keyPath: 'id' });
+        store.createIndex('budgetNumber', 'budgetNumber', { unique: true });
+        store.createIndex('createdAt', 'createdAt', { unique: false });
+      }
+      if (!db.objectStoreNames.contains(QUICK_TEMPLATES_STORE)) {
+        const store = db.createObjectStore(QUICK_TEMPLATES_STORE, { keyPath: 'id' });
+        store.createIndex('label', 'label', { unique: false });
+        store.createIndex('updatedAt', 'updatedAt', { unique: false });
+      }
+      if (!db.objectStoreNames.contains(CLOUD_SETTINGS_STORE)) db.createObjectStore(CLOUD_SETTINGS_STORE, { keyPath: 'ownerId' });
+      if (!db.objectStoreNames.contains(CLOUD_BUDGETS_STORE)) {
+        const store = db.createObjectStore(CLOUD_BUDGETS_STORE, { keyPath: ['ownerId', 'id'] });
+        store.createIndex('ownerId', 'ownerId', { unique: false });
+        store.createIndex('ownerNumber', ['ownerId', 'budgetNumber'], { unique: true });
+        store.createIndex('updatedAt', 'updatedAt', { unique: false });
+      }
+      if (!db.objectStoreNames.contains(CLOUD_QUICK_TEMPLATES_STORE)) {
+        const store = db.createObjectStore(CLOUD_QUICK_TEMPLATES_STORE, { keyPath: ['ownerId', 'id'] });
+        store.createIndex('ownerId', 'ownerId', { unique: false });
+        store.createIndex('updatedAt', 'updatedAt', { unique: false });
+      }
+    };
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+}
+
+function requestResult(request) {
+  return new Promise((resolve, reject) => {
+    request.onsuccess = () => resolve(request.result);
+    request.onerror = () => reject(request.error);
+  });
+}
+
+async function withStore(storeName, mode, callback) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(storeName, mode);
+    const store = tx.objectStore(storeName);
+    let result;
+    try { result = callback(store); } catch (error) { reject(error); return; }
+    tx.oncomplete = () => resolve(result);
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error);
+  });
+}
+
+function sortBudgets(rows = []) {
+  return [...rows].sort((a, b) => String(b.updatedAt || b.createdAt || '').localeCompare(String(a.updatedAt || a.createdAt || '')));
+}
+
+function sortTemplates(rows = []) {
+  return [...rows].sort((a, b) => String(a.label || '').localeCompare(String(b.label || ''), 'es'));
+}
+
+function withoutOwner(record) {
+  if (!record) return null;
+  const { ownerId, ...clean } = record;
+  return clean;
+}
+
+export async function getSettings() {
+  const db = await openDB();
+  return requestResult(db.transaction(SETTINGS_STORE, 'readonly').objectStore(SETTINGS_STORE).get('main')).then((value) => value || null);
+}
+
+export function saveSettings(settings) {
+  return withStore(SETTINGS_STORE, 'readwrite', (store) => store.put({ ...settings, id: 'main' }));
+}
+
+export async function getBudgets() {
+  const db = await openDB();
+  return requestResult(db.transaction(BUDGETS_STORE, 'readonly').objectStore(BUDGETS_STORE).getAll()).then(sortBudgets);
+}
+
+export async function getBudget(id) {
+  const db = await openDB();
+  return requestResult(db.transaction(BUDGETS_STORE, 'readonly').objectStore(BUDGETS_STORE).get(id)).then((value) => value || null);
+}
+
+export function saveBudget(budget) {
+  return withStore(BUDGETS_STORE, 'readwrite', (store) => store.put(budget));
+}
+
+export function deleteBudget(id) {
+  return withStore(BUDGETS_STORE, 'readwrite', (store) => store.delete(id));
+}
+
+export async function getQuickTemplates() {
+  const db = await openDB();
+  return requestResult(db.transaction(QUICK_TEMPLATES_STORE, 'readonly').objectStore(QUICK_TEMPLATES_STORE).getAll()).then(sortTemplates);
+}
+
+export function saveQuickTemplate(template) {
+  return withStore(QUICK_TEMPLATES_STORE, 'readwrite', (store) => store.put(template));
+}
+
+export function deleteQuickTemplate(id) {
+  return withStore(QUICK_TEMPLATES_STORE, 'readwrite', (store) => store.delete(id));
+}
+
+export async function getCloudSettings(ownerId) {
+  if (!ownerId) return null;
+  const db = await openDB();
+  const value = await requestResult(db.transaction(CLOUD_SETTINGS_STORE, 'readonly').objectStore(CLOUD_SETTINGS_STORE).get(ownerId));
+  return withoutOwner(value);
+}
+
+export function saveCloudSettings(ownerId, settings) {
+  if (!ownerId) throw new Error('Falta el usuario de la nube.');
+  return withStore(CLOUD_SETTINGS_STORE, 'readwrite', (store) => store.put({ ...settings, id: 'main', ownerId }));
+}
+
+export async function getCloudBudgets(ownerId) {
+  if (!ownerId) return [];
+  const db = await openDB();
+  const store = db.transaction(CLOUD_BUDGETS_STORE, 'readonly').objectStore(CLOUD_BUDGETS_STORE);
+  const rows = await requestResult(store.index('ownerId').getAll(IDBKeyRange.only(ownerId)));
+  return sortBudgets(rows.map(withoutOwner));
+}
+
+export async function getCloudBudget(ownerId, id) {
+  if (!ownerId || !id) return null;
+  const db = await openDB();
+  const value = await requestResult(db.transaction(CLOUD_BUDGETS_STORE, 'readonly').objectStore(CLOUD_BUDGETS_STORE).get([ownerId, id]));
+  return withoutOwner(value);
+}
+
+export function saveCloudBudget(ownerId, budget) {
+  if (!ownerId) throw new Error('Falta el usuario de la nube.');
+  return withStore(CLOUD_BUDGETS_STORE, 'readwrite', (store) => store.put({ ...budget, ownerId }));
+}
+
+export function deleteCloudBudgetCache(ownerId, id) {
+  return withStore(CLOUD_BUDGETS_STORE, 'readwrite', (store) => store.delete([ownerId, id]));
+}
+
+export async function getCloudQuickTemplates(ownerId) {
+  if (!ownerId) return [];
+  const db = await openDB();
+  const store = db.transaction(CLOUD_QUICK_TEMPLATES_STORE, 'readonly').objectStore(CLOUD_QUICK_TEMPLATES_STORE);
+  const rows = await requestResult(store.index('ownerId').getAll(IDBKeyRange.only(ownerId)));
+  return sortTemplates(rows.map(withoutOwner));
+}
+
+export function saveCloudQuickTemplate(ownerId, template) {
+  if (!ownerId) throw new Error('Falta el usuario de la nube.');
+  return withStore(CLOUD_QUICK_TEMPLATES_STORE, 'readwrite', (store) => store.put({ ...template, ownerId }));
+}
+
+export function deleteCloudQuickTemplateCache(ownerId, id) {
+  return withStore(CLOUD_QUICK_TEMPLATES_STORE, 'readwrite', (store) => store.delete([ownerId, id]));
+}
+
+function clearOwnedStore(store, ownerId) {
+  const request = store.index('ownerId').openKeyCursor(IDBKeyRange.only(ownerId));
+  request.onsuccess = () => {
+    const cursor = request.result;
+    if (!cursor) return;
+    store.delete(cursor.primaryKey);
+    cursor.continue();
+  };
+}
+
+export async function replaceCloudSnapshot(ownerId, settings, budgets = [], quickTemplates = []) {
+  if (!ownerId) return;
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction([CLOUD_SETTINGS_STORE, CLOUD_BUDGETS_STORE, CLOUD_QUICK_TEMPLATES_STORE], 'readwrite');
+    const settingsStore = tx.objectStore(CLOUD_SETTINGS_STORE);
+    const budgetsStore = tx.objectStore(CLOUD_BUDGETS_STORE);
+    const templatesStore = tx.objectStore(CLOUD_QUICK_TEMPLATES_STORE);
+    settingsStore.delete(ownerId);
+    clearOwnedStore(budgetsStore, ownerId);
+    clearOwnedStore(templatesStore, ownerId);
+    if (settings) settingsStore.put({ ...settings, id: 'main', ownerId });
+    budgets.forEach((budget) => budgetsStore.put({ ...budget, ownerId }));
+    quickTemplates.forEach((template) => templatesStore.put({ ...template, ownerId }));
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error);
+  });
+}
+
+export async function clearCloudData(ownerId = null) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction([CLOUD_SETTINGS_STORE, CLOUD_BUDGETS_STORE, CLOUD_QUICK_TEMPLATES_STORE], 'readwrite');
+    const settingsStore = tx.objectStore(CLOUD_SETTINGS_STORE);
+    const budgetsStore = tx.objectStore(CLOUD_BUDGETS_STORE);
+    const templatesStore = tx.objectStore(CLOUD_QUICK_TEMPLATES_STORE);
+    if (!ownerId) {
+      settingsStore.clear();
+      budgetsStore.clear();
+      templatesStore.clear();
+    } else {
+      settingsStore.delete(ownerId);
+      clearOwnedStore(budgetsStore, ownerId);
+      clearOwnedStore(templatesStore, ownerId);
+    }
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error);
+  });
+}
+
+export async function migrateLegacyCloudMatches(ownerId, remoteBudgets = [], remoteTemplates = []) {
+  if (!ownerId) return { budgets: [], quickTemplates: [] };
+  const remoteBudgetMap = new Map(remoteBudgets.map((record) => [record.id, record]));
+  const remoteTemplateMap = new Map(remoteTemplates.map((record) => [record.id, record]));
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const promoted = { budgets: [], quickTemplates: [] };
+    const tx = db.transaction([BUDGETS_STORE, QUICK_TEMPLATES_STORE, CLOUD_BUDGETS_STORE, CLOUD_QUICK_TEMPLATES_STORE], 'readwrite');
+    const localBudgets = tx.objectStore(BUDGETS_STORE);
+    const localTemplates = tx.objectStore(QUICK_TEMPLATES_STORE);
+    const cloudBudgets = tx.objectStore(CLOUD_BUDGETS_STORE);
+    const cloudTemplates = tx.objectStore(CLOUD_QUICK_TEMPLATES_STORE);
+    const budgetRequest = localBudgets.getAll();
+    budgetRequest.onsuccess = () => {
+      (budgetRequest.result || []).forEach((local) => {
+        const remote = remoteBudgetMap.get(local.id);
+        if (!remote) return;
+        const chosen = String(local.updatedAt || local.createdAt || '') > String(remote.updatedAt || remote.createdAt || '') ? local : remote;
+        cloudBudgets.put({ ...chosen, ownerId });
+        localBudgets.delete(local.id);
+        promoted.budgets.push(chosen);
+      });
+    };
+    const templateRequest = localTemplates.getAll();
+    templateRequest.onsuccess = () => {
+      (templateRequest.result || []).forEach((local) => {
+        const remote = remoteTemplateMap.get(local.id);
+        if (!remote) return;
+        const chosen = String(local.updatedAt || local.createdAt || '') > String(remote.updatedAt || remote.createdAt || '') ? local : remote;
+        cloudTemplates.put({ ...chosen, ownerId });
+        localTemplates.delete(local.id);
+        promoted.quickTemplates.push(chosen);
+      });
+    };
+    tx.oncomplete = () => resolve(promoted);
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error);
+  });
+}
+
+export async function replaceAllData(settings, budgets, quickTemplates = []) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction([SETTINGS_STORE, BUDGETS_STORE, QUICK_TEMPLATES_STORE], 'readwrite');
+    const settingsStore = tx.objectStore(SETTINGS_STORE);
+    const budgetsStore = tx.objectStore(BUDGETS_STORE);
+    const quickTemplatesStore = tx.objectStore(QUICK_TEMPLATES_STORE);
+    settingsStore.clear();
+    budgetsStore.clear();
+    quickTemplatesStore.clear();
+    settingsStore.put({ ...settings, id: 'main' });
+    (budgets || []).forEach((budget) => budgetsStore.put(budget));
+    (quickTemplates || []).forEach((template) => quickTemplatesStore.put(template));
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error);
+  });
+}

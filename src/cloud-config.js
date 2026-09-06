@@ -1,1 +1,4 @@
-{"data":"ZXhwb3J0IGNvbnN0IENMT1VEX0NPTkZJRyA9IE9iamVjdC5mcmVlemUoewogIHVybDogJ2h0dHBzOi8veGxjZWRtcHd2aGhld2xldnpmZ2Muc3VwYWJhc2UuY28nLAogIHB1Ymxpc2hhYmxlS2V5OiAnc2JfcHVibGlzaGFibGVfWlhpT0JubTNhM19CdlZkQXB3QkktZ19KYUFscDBzSCcKfSk7Cg=="}
+export const CLOUD_CONFIG = Object.freeze({
+  url: 'https://xlcedmpwvhhewlevzfgc.supabase.co',
+  publishableKey: 'sb_publishable_ZXiOBnm3a3_BvVdApwBI-g_JaAlp0sH'
+});

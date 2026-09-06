@@ -1,1 +1,68 @@
-{"data":"Y29uc3QgQ0FDSEUgPSAnYmlnLXBvd2VyLXYxLTktMi1yMSc7CmNvbnN0IEFTU0VUUyA9IFsKICAnLi8nLAogICcuL2luZGV4Lmh0bWwnLAogICcuL3N0eWxlcy5jc3MnLAogICcuL2FwcC5qcycsCiAgJy4vZGIuanMnLAogICcuL3BkZi1leHBvcnQuanMnLAogICcuL3ZlbmRvci9wZGYtbGliLmVzbS5taW4uanMnLAogICcuL3ZlbmRvci9odG1sMmNhbnZhcy5lc20uanMnLAogICcuL2Nsb3VkLmpzJywKICAnLi9jbG91ZC1jb25maWcuanMnLAogICcuL21hbmlmZXN0LndlYm1hbmlmZXN0JywKICAnLi9iaWdwb3dlci1tYXJrLXRyYW5zcGFyZW50LnBuZycsCiAgJy4vY2lyY3VpdC1wYXR0ZXJuLWRhcmsuc3ZnJywKICAnLi9jaXJjdWl0LXBhdHRlcm4tbGlnaHQuc3ZnJywKICAnLi9jaXJjdWl0LXBhdHRlcm4tcHJpbnQucG5nJywKICAnLi9pY29ucy9pY29uLnN2ZycsCiAgJy4vaWNvbnMvaWNvbi0xOTIucG5nJywKICAnLi9pY29ucy9pY29uLTUxMi5wbmcnCl07CmNvbnN0IE9XTl9BU1NFVF9QQVRIUyA9IG5ldyBTZXQoQVNTRVRTLm1hcCgoYXNzZXQpID0+IG5ldyBVUkwoYXNzZXQsIHNlbGYubG9jYXRpb24uaHJlZikucGF0aG5hbWUpKTsKCnNlbGYuYWRkRXZlbnRMaXN0ZW5lcignaW5zdGFsbCcsIChldmVudCkgPT4gewogIGV2ZW50LndhaXRVbnRpbChjYWNoZXMub3BlbihDQUNIRSkudGhlbigoY2FjaGUpID0+IGNhY2hlLmFkZEFsbChBU1NFVFMpKSk7CiAgc2VsZi5za2lwV2FpdGluZygpOwp9KTsKCnNlbGYuYWRkRXZlbnRMaXN0ZW5lcignYWN0aXZhdGUnLCAoZXZlbnQpID0+IHsKICBldmVudC53YWl0VW50aWwoY2FjaGVzLmtleXMoKS50aGVuKChrZXlzKSA9PiBQcm9taXNlLmFsbCgKICAgIGtleXMuZmlsdGVyKChrZXkpID0+IGtleSAhPT0gQ0FDSEUpLm1hcCgoa2V5KSA9PiBjYWNoZXMuZGVsZXRlKGtleSkpCiAgKSkpOwogIHNlbGYuY2xpZW50cy5jbGFpbSgpOwp9KTsKCnNlbGYuYWRkRXZlbnRMaXN0ZW5lcignZmV0Y2gnLCAoZXZlbnQpID0+IHsKICBpZiAoZXZlbnQucmVxdWVzdC5tZXRob2QgIT09ICdHRVQnKSByZXR1cm47CiAgY29uc3QgdXJsID0gbmV3IFVSTChldmVudC5yZXF1ZXN0LnVybCk7CiAgaWYgKHVybC5vcmlnaW4gIT09IHNlbGYubG9jYXRpb24ub3JpZ2luKSByZXR1cm47CgogIGlmIChldmVudC5yZXF1ZXN0Lm1vZGUgPT09ICduYXZpZ2F0ZScpIHsKICAgIGV2ZW50LnJlc3BvbmRXaXRoKAogICAgICBmZXRjaChldmVudC5yZXF1ZXN0KQogICAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgICAgY29uc3QgY29weSA9IHJlc3BvbnNlLmNsb25lKCk7CiAgICAgICAgICBjYWNoZXMub3BlbihDQUNIRSkudGhlbigoY2FjaGUpID0+IGNhY2hlLnB1dCgnLi9pbmRleC5odG1sJywgY29weSkpOwogICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICAgIH0pCiAgICAgICAgLmNhdGNoKCgpID0+IGNhY2hlcy5tYXRjaCgnLi9pbmRleC5odG1sJykpCiAgICApOwogICAgcmV0dXJuOwogIH0KCiAgaWYgKCFPV05fQVNTRVRfUEFUSFMuaGFzKHVybC5wYXRobmFtZSkpIHJldHVybjsKCiAgZXZlbnQucmVzcG9uZFdpdGgoCiAgICBjYWNoZXMubWF0Y2goZXZlbnQucmVxdWVzdCkudGhlbigoY2FjaGVkKSA9PiB7CiAgICAgIGNvbnN0IG5ldHdvcmsgPSBmZXRjaChldmVudC5yZXF1ZXN0KS50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgIGlmIChyZXNwb25zZS5vaykgewogICAgICAgICAgY29uc3QgY29weSA9IHJlc3BvbnNlLmNsb25lKCk7CiAgICAgICAgICBjYWNoZXMub3BlbihDQUNIRSkudGhlbigoY2FjaGUpID0+IGNhY2hlLnB1dChldmVudC5yZXF1ZXN0LCBjb3B5KSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXNwb25zZTsKICAgICAgfSkuY2F0Y2goKCkgPT4gY2FjaGVkKTsKICAgICAgcmV0dXJuIGNhY2hlZCB8fCBuZXR3b3JrOwogICAgfSkKICApOwp9KTsK"}
+const CACHE = 'big-power-v1-9-2-r1';
+const ASSETS = [
+  './',
+  './index.html',
+  './styles.css',
+  './app.js',
+  './db.js',
+  './pdf-export.js',
+  './vendor/pdf-lib.esm.min.js',
+  './vendor/html2canvas.esm.js',
+  './cloud.js',
+  './cloud-config.js',
+  './manifest.webmanifest',
+  './bigpower-mark-transparent.png',
+  './circuit-pattern-dark.svg',
+  './circuit-pattern-light.svg',
+  './circuit-pattern-print.png',
+  './icons/icon.svg',
+  './icons/icon-192.png',
+  './icons/icon-512.png'
+];
+const OWN_ASSET_PATHS = new Set(ASSETS.map((asset) => new URL(asset, self.location.href).pathname));
+
+self.addEventListener('install', (event) => {
+  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS)));
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil(caches.keys().then((keys) => Promise.all(
+    keys.filter((key) => key !== CACHE).map((key) => caches.delete(key))
+  )));
+  self.clients.claim();
+});
+
+self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET') return;
+  const url = new URL(event.request.url);
+  if (url.origin !== self.location.origin) return;
+
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const copy = response.clone();
+          caches.open(CACHE).then((cache) => cache.put('./index.html', copy));
+          return response;
+        })
+        .catch(() => caches.match('./index.html'))
+    );
+    return;
+  }
+
+  if (!OWN_ASSET_PATHS.has(url.pathname)) return;
+
+  event.respondWith(
+    caches.match(event.request).then((cached) => {
+      const network = fetch(event.request).then((response) => {
+        if (response.ok) {
+          const copy = response.clone();
+          caches.open(CACHE).then((cache) => cache.put(event.request, copy));
+        }
+        return response;
+      }).catch(() => cached);
+      return cached || network;
+    })
+  );
+});
