@@ -1,4 +1,10 @@
-# V.1.9.2 — 27/08/2026
+# V.1.9.3 — 09/09/2026
+
+- Actualización offline que conserva la copia anterior si falla un archivo necesario.
+- Las respuestas de error no reemplazan la aplicación guardada; sólo se administran cachés propias.
+- Cabeceras HTTP y exclusión de archivos de configuración en el contenedor.
+
+## V.1.9.2 — 27/08/2026
 
 - **Orden de campo más limpia:** se quitaron condiciones y firmas, y se agregó un espacio de observaciones o anotaciones.
 - **Garantía opcional:** cada trabajo puede emitirse sin garantía; en ese caso no aparece ninguna referencia en el documento.
